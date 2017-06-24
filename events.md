@@ -1,2 +1,0 @@
-# Events
-* Git workshop
