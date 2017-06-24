@@ -10,6 +10,7 @@
 ## Events
 * Git workshop
 * Small hackathon
+* Lightening Talks
 
 ## Projects
 * [Self-driving RC car](https://github.com/PlattsSEC/rpi_self_driving_RC_car)
@@ -25,3 +26,15 @@
 * Tech Jam
 
 ## General plans
+
+Video Chat Discussion Topics June 27th 6 pm
+* Involvement Fair Plans
+* Getting involved with the CSC221 students to bring up club enrollment
+* Python Tutoring/ Python Help 
+* Zach's Hacker Rank videoes (Also non-club scheduled hackerrank meetups)
+* We need to create a list of what needs to be prepared to run a hackathon ASAP
+* Any ideas for more raspberry pi based projects?
+* Lightening Talks
+* Potential Guest Speakers
+* This year's SEC swag
+* If anyone else has things they want to talk about please contribute to the list with your name next to the suggestion and enter it above this comment
