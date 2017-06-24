@@ -12,7 +12,7 @@
 * Small hackathon
 
 ## Projects
-* Self-driving RC car
+* [Self-driving RC car](https://github.com/PlattsSEC/rpi_self_driving_RC_car)
 
 ## Hackathons
 * [Hack-MIT](https://hackmit.org/)
