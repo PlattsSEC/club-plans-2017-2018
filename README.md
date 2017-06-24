@@ -22,5 +22,6 @@
 ## Conferences
 
 ## Job fairs
+* Tech Jam
 
 ## General plans
