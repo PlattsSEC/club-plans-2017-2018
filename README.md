@@ -15,9 +15,9 @@
 * Self-driving RC car
 
 ## Hackathons
-* Hack-MIT
-* Hack-VT
-* Hack-NY
+* [Hack-MIT](https://hackmit.org/)
+* [Hack-VT](http://www.hackvt.org/)
+* [Hack-NY](http://hackny.org/hackathon/)
 
 ## Conferences
 
