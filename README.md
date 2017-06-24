@@ -37,4 +37,6 @@ Video Chat Discussion Topics June 27th 6 pm
 * Lightening Talks
 * Potential Guest Speakers
 * This year's SEC swag
+* Our Budget
+* This semester's hackathons
 * If anyone else has things they want to talk about please contribute to the list with your name next to the suggestion and enter it above this comment
