@@ -6,7 +6,7 @@
 * [Conferences](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#conferences)
 * [Job fairs](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#job-fairs)
 * [General plans](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#general-plans)
-* [Video Chat Discussion]()
+* [Video Chat Discussion](https://github.com/PlattsSEC/club-plans-2017-2018/blob/master/README.md#video-chat-discussion-topics-june-27th-6-pm)
 * [Burghy Hacks]()
 
 
