@@ -5,6 +5,7 @@
 * [Hackathons](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#hackathons)
 * [Conferences](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#conferences)
 * [Job fairs](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#job-fairs)
+* [Guest Speakers]()
 * [Video Chat Discussion](https://github.com/PlattsSEC/club-plans-2017-2018/blob/master/README.md#video-chat-discussion-topics-june-27th-6-pm)
 * [Burghy Hacks](https://github.com/PlattsSEC/club-plans-2017-2018/blob/master/README.md#burghyhacks)
 
@@ -26,6 +27,8 @@
 
 ## Job fairs
 * Tech Jam
+
+## Guest Speakers
 
 ## Video Chat Discussion Topics June 27th 6 pm
 * Involvement Fair Plans
