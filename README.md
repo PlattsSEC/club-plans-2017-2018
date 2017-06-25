@@ -6,7 +6,6 @@
 * [Conferences](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#conferences)
 * [Job fairs](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#job-fairs)
 * [Guest Speakers](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#guest-speakers)
-* [Burghy Hacks](https://github.com/PlattsSEC/club-plans-2017-2018/blob/master/README.md#burghyhacks)
 
 
 ## Events
