@@ -5,8 +5,7 @@
 * [Hackathons](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#hackathons)
 * [Conferences](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#conferences)
 * [Job fairs](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#job-fairs)
-* [Guest Speakers]()
-* [Video Chat Discussion](https://github.com/PlattsSEC/club-plans-2017-2018/blob/master/README.md#video-chat-discussion-topics-june-27th-6-pm)
+* [Guest Speakers](https://github.com/PlattsSEC/club-plans-2017-2018/tree/master#guest-speakers)
 * [Burghy Hacks](https://github.com/PlattsSEC/club-plans-2017-2018/blob/master/README.md#burghyhacks)
 
 
@@ -29,22 +28,6 @@
 * Tech Jam
 
 ## Guest Speakers
-
-## Video Chat Discussion Topics June 27th 6 pm
-* Involvement Fair Plans
-* Getting involved with the CSC221 students to bring up club enrollment
-* Python Tutoring/ Python Help 
-* Zach's Hacker Rank videoes (Also non-club scheduled hackerrank meetups)
-* Any ideas for more raspberry pi based projects?
-* Lightening Talks
-* Potential Guest Speakers
-* This year's SEC swag
-* Our Budget
-* This semester's hackathons
-* Social Media outreach
-    * Twitter
-    * Facebook
-    * Website (Migrating to GitHub Pages)
     
 ## burghyHACKS
 * Event website
@@ -63,8 +46,8 @@
       * Someone's personal bank account (will be taxed A LOT)
       * Using/Starting a non-profit (takes about a year)
       * Ask the school for help (our only possible option)
-    * Understanding quarterly budgets (Q1 and Q4 are best times to get $$)
-    * Potential sponsors that come to mind
+   * Understanding quarterly budgets (Q1 and Q4 are best times to get $$)
+   * Potential sponsors that come to mind
       * MyWebGrocer(VT)
       * Dealer(VT)
       * InSum(NY)
