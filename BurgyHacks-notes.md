@@ -34,5 +34,6 @@
       * [MLH Season Membership](https://mlh.io/event-membership)
       * [T-shirts](https://undergroundshirts.com/)
       * [Stickers](https://www.stickermule.com/)
+      * [Cold email template](https://docs.google.com/document/d/1BVFXhjt4--PY89iZw7m_9_J69QTdXnth5QqYaB7UC5Y/edit)
         
 * If anyone else has things they want to talk about please contribute to the list with your name next to the suggestion and enter it above this comment
