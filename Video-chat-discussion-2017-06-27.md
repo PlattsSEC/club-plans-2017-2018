@@ -1,4 +1,5 @@
 ## Video Chat Discussion Topics June 27th 6 pm
+* Club Meeting Time
 * Involvement Fair Plans
 * Getting involved with the CSC221 students to bring up club enrollment
 * Python Tutoring/ Python Help 
@@ -13,4 +14,4 @@
     * Twitter
     * Facebook
     * Website (Migrating to GitHub Pages)
-    
+    * The Blog
