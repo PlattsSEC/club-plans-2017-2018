@@ -20,6 +20,7 @@
 * [Hack-MIT](https://hackmit.org/)
 * [Hack-VT](http://www.hackvt.org/)
 * [Hack-NY](http://hackny.org/hackathon/)
+* [MLH Maser list 2017](https://mlh.io/seasons/na-2017/events)
 
 ## Conferences
 

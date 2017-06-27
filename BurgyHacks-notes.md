@@ -23,6 +23,8 @@
       * TwinState(NY)
       * Ask Professor Balan?
    * Food
+   * Prizes
+   * Swag
    * Mentorship
    * Judges
    * Workshops
