@@ -23,6 +23,7 @@
 * [MLH Maser list 2017](https://mlh.io/seasons/na-2017/events)
 
 ## Conferences
+* [Grace Hopper]
 
 ## Job fairs
 * Tech Jam
